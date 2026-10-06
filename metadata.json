@@ -1,0 +1,6 @@
+{
+  "name": "Card Circle - 트레이딩 카드 수집가 커뮤니티",
+  "description": "실물 스포츠 및 TCG 카드 수집가들을 위한 슬랩 검증 매물 직거래 & 1:1 안심 거래 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
